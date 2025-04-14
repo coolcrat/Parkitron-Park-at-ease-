@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "702639604491",
+    "project_id": "parkitron-a31d3",
+    "storage_bucket": "parkitron-a31d3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702639604491:android:c6d9664966d1081e58580e",
+        "android_client_info": {
+          "package_name": "com.example.parkitron"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARqAXzCojyO8CKT-mrZLDu5q0OCdBCFmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

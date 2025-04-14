@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/about_text"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text=" Urbanization and the exponential growth of vehicular traffic have exacerbated the challenges of finding parking spaces, leading to wasted time, increased fuel consumption, and heightened environmental pollution. The Parkitron app represents a transformative step toward smarter, greener, and more livable urban environments, aligning with global smart city initiatives and the urgent need for sustainable mobility solutions."
+            android:textColor="@color/purple_200"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/btn_back_main"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:backgroundTint="@color/green"
+            android:text="Go to Main Page"
+            android:textColor="@color/white" />
+    </LinearLayout>
+</ScrollView>

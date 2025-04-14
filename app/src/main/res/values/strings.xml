@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Parkitron</string>
+    <string name="open">Open Drawer</string>
+    <string name="close">Close Drawer</string>
+    <string name="mapbox_access_token">"pk.eyJ1Ijoic2hpbmNoYW4xMyIsImEiOiJjbTk3NDZ0eW0wMzF4MmtzNGdyN3NscHJjIn0.aOnBNA5FhmU6LyyGPg9lKw"</string>
+</resources>
+
